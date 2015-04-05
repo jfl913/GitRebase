@@ -20,6 +20,7 @@
     NSLog(@"master0");
     NSLog(@"master1");
     NSLog(@"master2");
+    NSLog(@"test0");
 
 
     return YES;
