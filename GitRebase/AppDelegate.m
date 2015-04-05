@@ -22,6 +22,7 @@
     NSLog(@"master2");
     NSLog(@"test0");
     NSLog(@"test1");
+    NSLog(@"test2");
 
 
 
