@@ -20,6 +20,7 @@
     NSLog(@"test0");
     NSLog(@"anotherTest0");
     NSLog(@"anotherTest01");
+    NSLog(@"anotherTest02");
 
 }
 
